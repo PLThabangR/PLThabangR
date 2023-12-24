@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thabang Rakgoropo</h1>
-<h3 align="center">A passionate Linux and Cloud Automation developer</h3>
+<h3 align="center">A passionate Linux and Cloud Automation Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plthabangr" alt="plthabangr" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rakgoropothabang@gmail.com**
 
-- ⚡ Fun fact **I think I am cool!**
+- ⚡ Fun fact **I think I am fearfully and wonderfully made!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
