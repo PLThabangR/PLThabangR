@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thabang Rakgoropo</h1>
-<h3 align="center">A passionate Linux and Cloud Automation Developer</h3>
+<h3 align="center">A passionate Linux and Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plthabangr" alt="plthabangr" /></a> </p>
 
-- 🔭 I’m currently working on **Devops**
+- 🔭 I’m currently working on **Application development**
 
 - 🌱 I’m currently learning **Linux and Redhat**
 
 - 👯 I’m looking to collaborate on **Cloud Native projects**
 
-- 🤝 I’m looking for help with **Ansible and Automation tools**
+- 🤝 I’m looking for help with **Ansible and Terraform**
 
 - 👨‍💻 All of my projects are available at [https://thabangr.netlify.app/](https://thabangr.netlify.app/)
 
