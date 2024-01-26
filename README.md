@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Thabang Rakgoropo</h1>
-<h3 align="center">Linux and Full Stack Developer</h3>
+<h3 align="center">Linux ,SQL and Data analytics</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plthabangr" alt="plthabangr" /></a> </p>
 
-- 🔭 I’m currently working on **Application development**
+- 🔭 I’m currently working on **Python,My SQL**
 
-- 🌱 I’m currently learning **Linux and Redhat**
+- 🌱 I’m currently learning **Python 3 and RDMS**
 
-- 👯 I’m looking to collaborate on **Cloud Native projects**
+- 👯 I’m looking to collaborate on **Data exploration projects**
 
-- 🤝 I’m looking for help with **Ansible and Terraform**
+- 🤝 I’m looking for help with **Pandas and Excel**
 
 - 👨‍💻 All of my projects are available at [https://thabangr.netlify.app/](https://thabangr.netlify.app/)
 
-- 💬 Ask me about **Angular, React ,Linux**
+- 💬 Ask me about **Angular, React ,Linux, Python and SQL**
 
 - 📫 How to reach me **rakgoropothabang@gmail.com**
 
