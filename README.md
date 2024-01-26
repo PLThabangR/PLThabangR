@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python,My SQL**
 
-- 🌱 I’m currently learning **Python 3 and RDMS**
+- 🌱 I’m currently learning **Python scripting and RDMS**
 
 - 👯 I’m looking to collaborate on **Data exploration projects**
 
