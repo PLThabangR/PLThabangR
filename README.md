@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thabangr.netlify.app/](https://thabangr.netlify.app/)
 
-- 💬 Ask me about **Angular, React ,Linux, Python and SQL**
+- 💬 Ask me about **Angular, React ,Linux, Python, Java and SQL**
 
 - 📫 How to reach me **rakgoropothabang@gmail.com**
 
